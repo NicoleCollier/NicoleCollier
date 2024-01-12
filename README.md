@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 Cybersecuirty Projects:</h2>
 
-- <b>Azure/Cloud Projects</b>
+- <b>Azure/Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicoleCollier/Cloud-SOC)
 
 
