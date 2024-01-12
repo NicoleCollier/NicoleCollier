@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicole!</h1>
 
-<h2>👨‍💻 Cybersecuirty Projects:</h2>
+<h2>👩🏻‍💻 Cybersecuirty Projects:</h2>
 
 - <b>Azure/Cloud Projects</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicoleCollier/Cloud-SOC)
