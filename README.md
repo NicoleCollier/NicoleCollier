@@ -2,10 +2,15 @@
 
 <h2>👩🏻‍💻 Cybersecuirty Projects:</h2>
 
-- <b>Azure/Cloud Cybersecurity Projects</b>
+- <b>Cloud Cybersecurity Project</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicoleCollier/Cloud-SOC)
 
+- <b>Vulnerability Management Project</b>
+  - [Vulnerability Management using Nessus and Azure VMs]
 
+<h2>📄 Certifications:</h2>
+  - Google 
+  - Security + 
 
 <!--
 <h2> 🤳 Connect with me:</h2>
