@@ -6,7 +6,7 @@
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/NicoleCollier/Cloud-SOC)
 
 - <b>Vulnerability Management Project</b>
-  - [Vulnerability Management using Nessus and Azure VMs]
+  - [Vulnerability Management using Nessus and Azure](https://github.com/NicoleCollier/Vulnerability-Management)
 
 <h2>📄 Certifications:</h2>
   - Google 
