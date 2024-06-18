@@ -9,8 +9,8 @@
   - [Vulnerability Management using Nessus and Azure](https://github.com/NicoleCollier/Vulnerability-Management)
 
 <h2>📄 Certifications:</h2>
-  - Google Cybersecurity Professional Certification
-  - CompTIA Security + 
+- Google Cybersecurity Professional Certification
+- CompTIA Security + 
 
 <!--
 <h2> 🤳 Connect with me:</h2>
